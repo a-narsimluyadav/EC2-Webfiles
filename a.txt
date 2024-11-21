@@ -1,1 +1,8 @@
+<<<<<<< HEAD
 Hi,I am aws
+=======
+sdfas
+sdfs
+dfsdf
+sdfsd
+>>>>>>> refs/remotes/origin/master

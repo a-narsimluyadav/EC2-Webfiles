@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 Hi, I am awsclou
 hi,I am aws
+=======
+iHi, I am awscloud
+>>>>>>> refs/remotes/origin/master
